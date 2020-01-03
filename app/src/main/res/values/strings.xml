@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Resultados Loterias</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="concurso_anterior">Concurso anterior</string>
+    <string name="proximo_concurso">Próximo concurso</string>
+    <string name="lotomania">Lotomania</string>
+    <string name="lotofacil">Lotofácil</string>
+    <string name="quina">Quina</string>
+    <string name="mega_sena">Mega Sena</string>
+    <string name="dupla_sena">Dupla Sena</string>
+    <string name="timemania">Timemania</string>
+    <string name="dia_de_sorte">Dia de Sorte</string>
+    <string name="federa">Federal</string>
+    <string name="loteria">Loteria</string>
+    <string name="conferencia">Conferência</string>
+    <string name="meus_jogos">Meus jogos</string>
+    <string name="nenhuma_dezena_selecionada">Nenhuma dezena selecionada</string>
+    <string name="conferir">Conferir</string>
+    <string name="limpar">Limpar</string>
+    <string name="gerar">Gerar</string>
+    <string name="concurso">Concurso</string>
+</resources>
