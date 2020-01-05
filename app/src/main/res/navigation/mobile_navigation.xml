@@ -12,7 +12,7 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.gutotech.resultadosloterias.ui.dashboard.DashboardFragment"
+        android:name="com.gutotech.resultadosloterias.ui.conferencia.DashboardFragment"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment

@@ -21,4 +21,14 @@
     <string name="limpar">Limpar</string>
     <string name="gerar">Gerar</string>
     <string name="concurso">Concurso</string>
+    <string name="acumulada_proximo_concurso">Acumulada próximo concurso:</string>
+    <string name="sorteio_1">1° Sorteio</string>
+    <string name="sorteio_2">2° Sorteio</string>
+    <string name="concurso_e_data">/ Concurso %1$s (%2$s)</string>
+    <string name="bilhete">Bilhete</string>
+    <string name="premio">Prêmio</string>
+    <string name="destino">%d°</string>
+    <string name="valor">R$ %s</string>
+    <string name="time_coracao">Time do coração: %s</string>
+    <string name="mes_sorte">Mês da Sorte: %s</string>
 </resources>

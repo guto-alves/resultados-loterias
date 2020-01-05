@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#2196F3</color>
-    <color name="colorPrimaryDark">#3F51B5</color>
-    <color name="colorAccent">#03A9F4</color>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#00BCD4</color>
+
+    <color name="colorMegaSena">#0D8144</color>
+    <color name="colorQuina">#2A3694</color>
+    <color name="colorLotofacil">#8D0282</color>
+    <color name="colorLotomania">#FF5824</color>
+    <color name="colorDuplaSena">#C21A5C</color>
+    <color name="colorTimemania">#FFF602</color>
+    <color name="colorDiaDeSorte">#D3B317</color>
+    <color name="colorFederal">#0267B3</color>
+
 </resources>

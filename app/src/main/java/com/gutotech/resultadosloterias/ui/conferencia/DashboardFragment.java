@@ -1,4 +1,4 @@
-package com.gutotech.resultadosloterias.ui.dashboard;
+package com.gutotech.resultadosloterias.ui.conferencia;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
