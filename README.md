@@ -1,1 +1,1 @@
-# resultados-loterias
+# results-loterias

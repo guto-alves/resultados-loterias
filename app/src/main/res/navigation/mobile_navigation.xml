@@ -7,16 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.gutotech.resultadosloterias.ui.home.HomeFragment"
+        android:name="com.gutotech.loteria.ui.home.HomeFragment"
+        android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.gutotech.resultadosloterias.ui.conferencia.DashboardFragment"
-        tools:layout="@layout/fragment_dashboard" />
+        android:name="com.gutotech.loteria.ui.conferencia.DashboardFragment"
+        android:label="@string/conferencia"
+        tools:layout="@layout/fragment_conferencia" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.gutotech.resultadosloterias.ui.notifications.NotificationsFragment"
-        tools:layout="@layout/fragment_notifications" />
+        android:name="com.gutotech.loteria.ui.historico.HistoricoFragment"
+        android:label="@string/historico"
+        tools:layout="@layout/fragment_historico" />
 </navigation>

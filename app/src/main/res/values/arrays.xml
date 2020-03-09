@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="loterias">
+        <item>Mega Sena</item>
+        <item>Quina</item>
+        <item>Lotofácil</item>
+        <item>Lotomania</item>
+        <item>Dupla Sena</item>
+        <item>Timemania</item>
+        <item>Dia de Sorte</item>
+        <item>Federal</item>
+    </string-array>
+
+</resources>
